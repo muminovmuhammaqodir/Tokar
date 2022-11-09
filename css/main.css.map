@@ -1,1 +1,1 @@
-{"version":3,"sources":["../scss/globals/_glabals.scss","../scss/header/_header.scss"],"names":[],"mappings":"AAAA,EACC,qBAAA,CACA,QAAA,CACA,SAAA,CACI,sBAAA,CAGL,WACK,gBAAA,CCRL,gBACK,kBAAA","file":"main.css"}
+{"version":3,"sources":["../scss/globals/_glabals.scss","../scss/header/_header.scss"],"names":[],"mappings":"AAAA,EACC,qBAAA,CACA,QAAA,CACA,SAAA,CACI,sBAAA,CAGL,WACK,gBAAA,CCRL,gBACK,kBAAA,CAEA,2BACK,eAAA,CACA,UAAA","file":"main.css"}
