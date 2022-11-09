@@ -1,1 +1,20 @@
+// fonts weight variables
 
+$font-semibold: 700px;
+$font-extrabold: 800px;
+$font-bold: 600px;
+$font-regular: 300px;
+$font-medium: 400px;
+
+
+// mixin function for text
+@mixin text($font-family, $size, $line-height){
+     font-family: $font-family;
+     font-size: $size;
+     line-height: $line-height;
+}
+
+%texts{
+     font-style: normal;
+     color: #2B2A28;
+}
