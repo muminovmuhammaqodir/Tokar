@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"main.css"}
+{"version":3,"sources":["../scss/txt_fonts/_fonts.scss","../scss/variables/_variables.scss"],"names":[],"mappings":"AAAA,WACC,wBAAA,CACA,qCAAA,CCGD,OACC,wBAHa,CAIb,eAPW,CAQX,gBAPa,CAQb,UAPO","file":"main.css"}
