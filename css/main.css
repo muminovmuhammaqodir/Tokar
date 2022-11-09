@@ -1,1 +1,19 @@
-*{box-sizing:border-box;margin:0;padding:0;scroll-behavior:smooth}.container{padding:0px 15px}.header-section{background:#fffbf7}.header-section .logo-span{max-width:255px;width:100%}/*# sourceMappingURL=main.css.map */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+.container {
+  padding: 0px 15px;
+}
+.header-section {
+  background: #fffbf7;
+}
+.header-section .logo-span {
+  max-width: 255px;
+  width: 100%;
+} /*# sourceMappingURL=main.css.map */
+body {
+  background-color: red;
+}
