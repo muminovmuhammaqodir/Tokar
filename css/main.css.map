@@ -1,1 +1,1 @@
-{"version":3,"sources":["../scss/txt_fonts/_fonts.scss","../scss/variables/_variables.scss"],"names":[],"mappings":"AAAA,WACC,wBAAA,CACA,qCAAA,CCGD,OACC,wBAHa,CAIb,eAPW,CAQX,gBAPa,CAQb,UAPO","file":"main.css"}
+{"version":3,"sources":["../scss/globals/_glabals.scss","../scss/header/_header.scss"],"names":[],"mappings":"AAAA,EACC,qBAAA,CACA,QAAA,CACA,SAAA,CACI,sBAAA,CAGL,WACK,gBAAA,CCRL,gBACK,kBAAA","file":"main.css"}
