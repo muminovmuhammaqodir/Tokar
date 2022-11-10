@@ -6,15 +6,40 @@ $font-bold: 600px;
 $font-regular: 300px;
 $font-medium: 400px;
 
-
 // mixin function for text
-@mixin text($font-family, $size, $line-height){
-     font-family: $font-family;
-     font-size: $size;
-     line-height: $line-height;
+
+@mixin text($font-family, $size, $line-height) {
+	font-family: $font-family;
+	font-size: $size;
+	line-height: $line-height;
 }
 
-%texts{
-     font-style: normal;
-     color: #2B2A28;
+%texts {
+	font-style: normal;
+	color: #2b2a28;
+}
+
+%font-800 {
+	font-family: "Gilroy-ExtraBold";
+	font-weight: $font-extrabold;
+}
+
+%font-700 {
+	font-family: "Gilroy-SemiBold";
+	font-weight: $font-semibold;
+}
+
+%font-600 {
+	font-family: "Gilroy-Bold";
+	font-weight: $font-bold;
+}
+
+%font-400 {
+	font-family: "Gilroy-Regular";
+	font-weight: $font-regular;
+}
+
+%font-300 {
+	font-family: "Gilroy-Medium";
+	font-weight: $font-medium;
 }
