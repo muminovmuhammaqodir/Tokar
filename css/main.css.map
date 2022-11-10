@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"sources":["../scss/txt_fonts/_fonts.scss","../scss/variables/_variables.scss","../scss/globals/_glabals.scss","../scss/header/_header.scss"],"names":[],"mappings":"AAAA,WACE,yBAAA,CACA,sCAAA,CAGF,WACE,4BAAA,CACA,yCAAA,CAGF,WACE,6BAAA,CACA,0CAAA,CAGF,WACE,8BAAA,CACA,2CAAA,CAGF,WACE,2BAAA,CACA,wCAAA,CCNF,2BACK,iBAAA,CACA,aAAA,CClBL,EACC,qBAAA,CACA,QAAA,CACA,SAAA,CACI,sBAAA,CAGL,WACK,gBAAA,CCRL,gBACC,kBAAA,CAEA,2BACC,eAAA,CACA,UAAA","file":"main.css"}
+=======
+{"version":3,"sources":["../scss/txt_fonts/_fonts.scss","../scss/variables/_variables.scss","../scss/globals/_glabals.scss","../scss/header/_header.scss"],"names":[],"mappings":"AAAA,WACC,yBAAA,CACA,sCAAA,CAGD,WACC,4BAAA,CACA,yCAAA,CAGD,WACC,6BAAA,CACA,0CAAA,CAGD,WACC,8BAAA,CACA,2CAAA,CAGD,WACC,2BAAA,CACA,wCAAA,CCND,2BACC,iBAAA,CACA,aAAA,CClBD,EACC,qBAAA,CACA,QAAA,CACA,SAAA,CACI,sBAAA,CAGL,WACK,gBAAA,CCRL,gBACC,kBAAA,CAEA,2BACC,eAAA,CACA,UAAA","file":"main.css"}
+>>>>>>> 326aee6c563922706fcf307132f3655f365729f2

@@ -4,7 +4,8 @@
 	.logo-span {
 		max-width: 255px;
 		width: 100%;
-		
-          @extend %texts
+
+		@extend %texts;
 	}
+
 }
