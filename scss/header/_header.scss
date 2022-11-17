@@ -1,11 +1,29 @@
 .header-section {
 	background: #fffbf7;
 
-	.logo-span {
-		max-width: 255px;
-		width: 100%;
+	.header {
+		&__block {
+			.logo-span {
+				max-width: 255px;
+				width: 100%;
 
-		@extend %texts;
+				@extend %texts;
+			}
+			.target__link {
+				text-decoration: none !important;
+			}
+		}
+		&__logo {
+			.logo-span {
+				display: none !important;
+			}
+		}
+
+		&__targets {
+			display: none !important;
+		}
+		&__sources {
+			display: none !important;
+		}
 	}
-
 }
